@@ -721,4 +721,3 @@ This tells PostgreSQL: "every `customer_id` in `orders` must actually exist in `
 ---
 
 
-That's completely normal and not a sign you've broken anything — just tell me exactly what command you ran and exactly what appeared on your screen (copy-paste it if you can), and I'll help you figure out the next step from there.
